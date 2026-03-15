@@ -58,4 +58,4 @@ The agent returns:
 4. Results are structured and formatted with severity indicators
 5. Comprehensive report is generated with actionable insights
 
-## Based on this article: https://gist.github.com/dabit3/93a5afe8171753d0dbfd41c80033171d
+### Based on this article: https://gist.github.com/dabit3/93a5afe8171753d0dbfd41c80033171d
